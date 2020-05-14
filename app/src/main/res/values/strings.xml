@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LeafBlast</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="google_maps_key" translatable="false">AIzaSyCx4ykbFTc8ZQpBKSHBT3ZY16p7BaRhK8E</string>
+</resources>

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1033085636203",
+    "firebase_url": "https://leafblast-fb937.firebaseio.com",
+    "project_id": "leafblast-fb937",
+    "storage_bucket": "leafblast-fb937.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1033085636203:android:05c77f6913f6246635eb2e",
+        "android_client_info": {
+          "package_name": "com.example.leafblast"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1033085636203-er62shvf7i4flrcsiolhsrhb5j1u3b1r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.leafblast",
+            "certificate_hash": "5c8ee415043438d58a3e54877cc12fb866d6c068"
+          }
+        },
+        {
+          "client_id": "1033085636203-qtinecoeln9a8fgiub4l5h73k8jvbtrh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAE8tVukI1YNd3xmcVO8w4H_cBFtbBXyUg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1033085636203-qtinecoeln9a8fgiub4l5h73k8jvbtrh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
